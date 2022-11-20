@@ -14,3 +14,4 @@ Copy into the code field and press Save
 ![image](https://user-images.githubusercontent.com/108484798/202921547-23e8c848-f72c-4228-80c0-5206d59dc710.png)
 
 You will be asked to supply the template with extra informations. Or you set them in the template as default value.
+After you press create a new vm, storage and others will be deployed.
