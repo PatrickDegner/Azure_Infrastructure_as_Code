@@ -1,6 +1,6 @@
 # Azure_Infrastructure_as_Code
 Azure ARM Template Examples
-Deploy them via CLI or Portal
+Deploy them via CLI, Powershell or Portal
 
 
 ## How to use
